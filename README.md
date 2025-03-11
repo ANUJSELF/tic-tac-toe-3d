@@ -3,7 +3,7 @@
 A modern, interactive **3D Tic-Tac-Toe** game built with JavaScript, React, and Three.js.
 
 ## 🚀 Live Demo
-🔗 **Play the game now:** [Tic-Tac-Toe 3D](https://indianmuseums.netlify.app/)
+🔗 **Play the game now:** [Tic-Tac-Toe 3D](https://anujtictactoe.web.app)
 
 ## 📂 Project Setup
 
@@ -13,24 +13,22 @@ git clone https://github.com/ANUJSELF/tic-tac-toe-3d.git
 cd tic-tac-toe-3d
 
 ### 2?? Install Dependencies
-\\\sh
+
 npm install
-\\\
+
 
 ### 3?? Start the Development Server
-\\\sh
+
 npm run dev
-\\\
+
 
 ### 4?? Build for Production
-\\\sh
+
 npm run build
-\\\
 
 ### 5?? Deploy to Firebase
-\\\sh
+
 firebase deploy
-\\\
 
 ## ??? Tech Stack
 - **React** - UI Framework
