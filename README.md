@@ -1,17 +1,16 @@
-# Tic-Tac-Toe 3D ??
+# Tic-Tac-Toe 3D 🎮
 
 A modern, interactive **3D Tic-Tac-Toe** game built with JavaScript, React, and Three.js.
 
-## ?? Live Demo
-?? **Play the game now:** [Tic-Tac-Toe 3D](https://anujtictactoe.web.app)
+## 🚀 Live Demo
+🔗 **Play the game now:** [Tic-Tac-Toe 3D](https://indianmuseums.netlify.app/)
 
-## ?? Project Setup
+## 📂 Project Setup
 
-### 1?? Clone the Repository
-\\\sh
+### 1️⃣ Clone the Repository
+```sh
 git clone https://github.com/ANUJSELF/tic-tac-toe-3d.git
 cd tic-tac-toe-3d
-\\\
 
 ### 2?? Install Dependencies
 \\\sh
